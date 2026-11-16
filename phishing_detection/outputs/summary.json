@@ -1,0 +1,32 @@
+{
+  "best_model": "Logistic Regression",
+  "n_samples": 2964,
+  "n_test": 593,
+  "report": {
+    "legit": {
+      "precision": 0.9594594594594594,
+      "recall": 0.9726027397260274,
+      "f1-score": 0.9659863945578231,
+      "support": 292.0
+    },
+    "phish": {
+      "precision": 0.9730639730639731,
+      "recall": 0.9601328903654485,
+      "f1-score": 0.9665551839464883,
+      "support": 301.0
+    },
+    "accuracy": 0.9662731871838112,
+    "macro avg": {
+      "precision": 0.9662617162617162,
+      "recall": 0.966367815045738,
+      "f1-score": 0.9662707892521557,
+      "support": 593.0
+    },
+    "weighted avg": {
+      "precision": 0.9663649545605699,
+      "recall": 0.9662731871838112,
+      "f1-score": 0.9662751055291355,
+      "support": 593.0
+    }
+  }
+}
