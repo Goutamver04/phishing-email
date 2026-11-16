@@ -368,5 +368,5 @@ Paste any email (subject, sender, body) and instantly get:
 ---
 
 <p align="center">
-  Made with ❤️ for IICT Semester Project · 2024
+  
 </p>
